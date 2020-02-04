@@ -9,7 +9,7 @@ class TreasurePath {
     private final List<CoordinateDTO> coordinates
     private final String error
 
-    // needed for tess
+    // needed for test
     TreasurePath() {
     }
 
